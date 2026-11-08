@@ -6,7 +6,6 @@ public class Aula_09_funão_main {
 	// Essa função que torna a classe java em um programa Java
 	public static void main(String[] args) {
 		System.out.println("Qualquer texto");
-		System.out.println(args[0]);
 	}
 	
 }
